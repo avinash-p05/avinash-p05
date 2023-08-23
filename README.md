@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinash-p05" alt="avinash-p05" /></a> </p>
 
-- 🔭 I’m currently working on **Cyber Security**
+- 🔭 I’m currently working on **Android Development**
 
-- 🌱 I’m currently learning **Python,Linux,**
+- 🌱 I’m currently learning **Python,Java,Android studios**
 
-- 👯 I’m looking to collaborate on **Python Projects**
+- 👯 I’m looking to collaborate on **Android development Projects**
 
 - 👨‍💻 All of my projects are available at [http://avinashh.site/](http://avinashh.site/)
 
-- 💬 Ask me about **C,C++,Java and Cyber Security stuff.**
+- 💬 Ask me about **C,C++,Java and Android Development stuff.**
 
 - 📫 How to reach me **avinashpauskar05@gmail.com**
 
