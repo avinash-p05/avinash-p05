@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinash-p05" alt="avinash-p05" /></a> </p>
 
-- 🔭 I’m currently working on **Todo Web App using Spring boot 3, Hibernate and JPA.**
+- 🔭 I’m currently working on **RESTful Web App using Spring boot 3, Hibernate and JPA.**
 
 - 🌱 I’m currently learning Spring boot 3 **https://www.udemy.com/course-dashboard-redirect/?course_id=4993276**
 
