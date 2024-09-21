@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning Spring boot 3 **https://www.udemy.com/course-dashboard-redirect/?course_id=4993276**
 
-- 👨‍💻 All of my projects are available at [avinashh.site](avinashh.site)
+- 👨‍💻 All of my projects are available at [avinashhhportfolio.netlify.app](https://avinashhhportfolio.netlify.app/)
 
 - 📫 How to reach me **avinashpauskar05@gmail.com**
 
