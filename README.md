@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Projects<br>👯 I’m looking to collaborate on Mobile Dev<br>🤝 I’m looking for help with AI/ML<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about Mobile Dev using Kotlin and React navtive<br>⚡ Fun fact - Don't miss the semi-colon ;
+🔭 I’m currently working on Projects<br>👯 I’m looking to collaborate on Mobile Dev<br>🤝 I’m looking for help with AI/ML<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about Mobile Dev using Kotlin and React native<br>⚡ Fun fact - Don't miss the semi-colon ;
 
 
 ## 🌐 Socials:
