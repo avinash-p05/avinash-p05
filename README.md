@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/avinash-pauskar"><img src="https://img.shields.io/badge/linkedin-0d1117?style=flat-square&logo=linkedin&logoColor=7ee787"/></a>
-  <a href="https://avinash-pauskar-portfolio.netlify.app/"><img src="https://img.shields.io/badge/portfolio-0d1117?style=flat-square&logo=gnubash&logoColor=7ee787"/></a>
+  <a href="https://avinash-pauskar.netlify.app/"><img src="https://img.shields.io/badge/portfolio-0d1117?style=flat-square&logo=gnubash&logoColor=7ee787"/></a>
   <a href="https://avinash-p05.github.io/fin-core/"><img src="https://img.shields.io/badge/fin--core_demo-0d1117?style=flat-square&logo=openjdk&logoColor=7ee787"/></a>
   <a href="https://x.com/avinash_pauskar"><img src="https://img.shields.io/badge/x-0d1117?style=flat-square&logo=x&logoColor=7ee787"/></a>
 </p>
