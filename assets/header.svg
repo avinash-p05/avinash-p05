@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="55%" stop-color="#161b33"/>
+      <stop offset="100%" stop-color="#1a0f2e"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f89820">
+        <animate attributeName="stop-color" values="#f89820;#6db33f;#61dafb;#a371f7;#f89820" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#a371f7">
+        <animate attributeName="stop-color" values="#a371f7;#f89820;#6db33f;#61dafb;#a371f7" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#30363d" stroke-width="0.6"/>
+    </pattern>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#a371f7" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#a371f7" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="card"><rect width="1000" height="280" rx="18"/></clipPath>
+    <style>
+      .name { font-size: 64px; font-weight: 800; letter-spacing: 2px; fill: none; stroke: url(#name); stroke-width: 1.6;
+              stroke-dasharray: 900; stroke-dashoffset: 900; animation: draw 2.4s ease forwards; }
+      .namefill { font-size: 64px; font-weight: 800; letter-spacing: 2px; fill: url(#name); opacity: 0; animation: show 1s 2s ease forwards; }
+      .role { font-size: 22px; fill: #c9d1d9; opacity: 0; animation: up .8s 1.6s ease forwards; }
+      .tag  { font-size: 15px; fill: #8b949e; opacity: 0; animation: up .8s 2.1s ease forwards; font-family: 'Cascadia Code', Consolas, monospace; }
+      .sym  { font-family: 'Cascadia Code', Consolas, monospace; font-weight: 700; animation: float 6s ease-in-out infinite; }
+      .cursor { animation: blink 1s step-end infinite; }
+      .dot { animation: pulse 2s ease-in-out infinite; }
+      @keyframes draw { to { stroke-dashoffset: 0; } }
+      @keyframes show { to { opacity: 1; } }
+      @keyframes up { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+      @keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-12px); } }
+      @keyframes blink { 50% { opacity: 0; } }
+      @keyframes pulse { 0%,100% { opacity: .25; } 50% { opacity: 1; } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1000" height="280" fill="url(#bg)"/>
+    <rect width="1000" height="280" fill="url(#grid)" opacity="0.55">
+      <animate attributeName="y" from="0" to="40" dur="4s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="500" cy="140" r="260" fill="url(#glow)">
+      <animate attributeName="r" values="230;280;230" dur="6s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- floating code symbols -->
+    <text class="sym" x="70"  y="90"  font-size="34" fill="#f89820" opacity=".55">{ }</text>
+    <text class="sym" x="880" y="80"  font-size="30" fill="#6db33f" opacity=".55" style="animation-delay:-2s">@</text>
+    <text class="sym" x="90"  y="230" font-size="28" fill="#61dafb" opacity=".5"  style="animation-delay:-4s">&lt;/&gt;</text>
+    <text class="sym" x="860" y="235" font-size="28" fill="#a371f7" opacity=".55" style="animation-delay:-1s">=&gt;</text>
+    <text class="sym" x="170" y="150" font-size="18" fill="#8b949e" opacity=".4"  style="animation-delay:-3s">;</text>
+    <text class="sym" x="800" y="160" font-size="18" fill="#8b949e" opacity=".4"  style="animation-delay:-5s">( )</text>
+
+    <!-- twinkling dots -->
+    <circle class="dot" cx="240" cy="60"  r="2" fill="#c9d1d9"/>
+    <circle class="dot" cx="760" cy="50"  r="2" fill="#c9d1d9" style="animation-delay:.7s"/>
+    <circle class="dot" cx="680" cy="240" r="2" fill="#c9d1d9" style="animation-delay:1.3s"/>
+    <circle class="dot" cx="310" cy="250" r="2" fill="#c9d1d9" style="animation-delay:.4s"/>
+    <circle class="dot" cx="950" cy="150" r="2" fill="#c9d1d9" style="animation-delay:1.7s"/>
+    <circle class="dot" cx="40"  cy="150" r="2" fill="#c9d1d9" style="animation-delay:1s"/>
+
+    <text class="namefill" x="500" y="128" text-anchor="middle">AVINASH PAUSKAR</text>
+    <text class="name" x="500" y="128" text-anchor="middle">AVINASH PAUSKAR</text>
+    <text class="role" x="500" y="172" text-anchor="middle">Java Full-Stack Engineer  ·  Spring Boot  ·  React  ·  Distributed Systems</text>
+    <text class="tag"  x="500" y="214" text-anchor="middle">$ building reliable backends that keep the money correct<tspan class="cursor" fill="#a371f7">▌</tspan></text>
+  </g>
+  <rect x="0.5" y="0.5" width="999" height="279" rx="18" fill="none" stroke="#30363d"/>
+</svg>

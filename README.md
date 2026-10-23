@@ -1,27 +1,176 @@
-# 💫 About Me:
-🔭 I’m currently working on Projects<br>👯 I’m looking to collaborate on Mobile Dev<br>🤝 I’m looking for help with AI/ML<br>🌱 I’m currently learning AWS<br>💬 Ask me about Mobile Dev using Kotlin and React native<br>⚡ Fun fact - Don't miss the semi-colon ;
+<p align="center">
+  <img src="./assets/header.svg" alt="Avinash Pauskar · Java Full-Stack Engineer" width="100%"/>
+</p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A371F7&center=true&vCenter=true&width=720&lines=Java+21+%2B+Spring+Boot+backends+%E2%98%95;Payments+%26+double-entry+ledgers+%F0%9F%92%B8;Kafka+%E2%80%A2+Redis+%E2%80%A2+PostgreSQL+%E2%9A%A1;LLM-powered+workflow+builders+%F0%9F%A4%96;7x+hackathon+winner+%F0%9F%8F%86" alt="Typing SVG"/>
+  </a>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/avinashh.5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/avinash-pauskar) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/avinashh5) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@avinash_pauskar) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=avinash-p05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=avinash-p05&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-p05&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=avinash-p05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=avinash-p05&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://linkedin.com/in/avinash-pauskar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://avinash-pauskar-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-A371F7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+  <a href="https://x.com/avinash_pauskar"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://instagram.com/avinashh.5"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=avinash-p05&style=for-the-badge&color=a371f7&label=PROFILE+VIEWS" alt="profile views"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=avinash-p05&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+
+```java
+public class AvinashPauskar implements Engineer {
+
+    String role       = "Java Full-Stack Engineer";
+    String location   = "Belagavi, Karnataka 🇮🇳";
+    String experience = "Software Engineer I @ Esko Graphics (Feb 2025 – Sep 2026)";
+    String education  = "B.E. Computer Science · KLS GIT · CGPA 9.02";
+
+    String[] buildsWith = { "Java 21", "Spring Boot", "React", "Node.js", "TypeScript" };
+    String[] dataLayer  = { "PostgreSQL", "MongoDB", "Redis", "Apache Kafka" };
+    String[] lovesToDo  = { "Distributed systems", "Event-driven design", "RAG & LLM integration" };
+
+    String funFact      = "Don't miss the semicolon ;";
+}
+```
+
+- 🏦 Built **FinCore**, a payment processing system with a double-entry ledger, idempotency keys and a transactional outbox
+- 🤖 Worked on an **AI-powered Switch Flow Builder** that turns plain English into runnable workflows (6 h → 25 min), which got a *Top Honorable Mention* at Esko Innovation Day
+- 🔐 Shipped JWT auth, token caching and isolated **child-process script execution** for the Enfocus Switch automation platform
+- 🌱 Currently going deeper on **AWS**, **system design** and **AI engineering**
+
+---
+
+## 📈 Impact
+
+<p align="center">
+  <img src="./assets/impact.svg" alt="Impact by the numbers" width="100%"/>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center"><b>Languages</b><br/>
+  <img src="https://skillicons.dev/icons?i=java,ts,js,kotlin,python,cpp&theme=dark" />
+</p>
+<p align="center"><b>Backend & Messaging</b><br/>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,kafka,redis&theme=dark" />
+</p>
+<p align="center"><b>Frontend & Mobile</b><br/>
+  <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind,androidstudio&theme=dark" />
+</p>
+<p align="center"><b>Databases</b><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,firebase&theme=dark" />
+</p>
+<p align="center"><b>Cloud, DevOps & Tools</b><br/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,github,postman,idea,vscode,figma&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mockito-78A641?style=flat-square"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square"/>
+  <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SOLID_%26_Design_Patterns-A371F7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/System_Design-F89820?style=flat-square"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💸 <a href="https://github.com/avinash-p05/fin-core">FinCore</a></h3>
+      <p>A payment processing and ledger system with a React operations dashboard. It handles about 1,000 payments/s at 87 ms p95, and the ledger stays consistent across 211K+ payments.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      </p>
+      <a href="https://avinash-p05.github.io/fin-core/">🔗 Live demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/avinash-p05/devmind">DevMind</a></h3>
+      <p>An incident-intelligence platform that answers engineering questions from docs, code, logs and incident reports. It uses pgvector retrieval, full-text search, reranking and LangGraph workflows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square"/>
+        <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚙️ <a href="https://github.com/avinash-p05/flow-forge">FlowForge</a></h3>
+      <p>A distributed workflow execution platform. You define workflows through a REST API, executions are queued, and horizontally scalable workers run the jobs.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Distributed_Systems-0D1117?style=flat-square&logo=apachekafka&logoColor=white"/>
+        <img src="https://img.shields.io/badge/REST_API-61DAFB?style=flat-square&logo=fastapi&logoColor=black"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🖥️ <a href="https://github.com/avinash-p05/terminal-portfolio">Terminal Portfolio</a></h3>
+      <p>A portfolio website that looks and works like a terminal, built with plain HTML, CSS and JavaScript.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=avinash-p05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-p05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=avinash-p05&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=avinash-p05&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" />
+</p>
+
+---
+
+## 🏅 Certifications
+
+| | Certification | Issuer |
+|---|---|---|
+| 🤖 | Getting Started with Generative AI | IBM SkillsBuild |
+| ☁️ | Amazon Web Services (AWS) | O'Reilly |
+| 🧩 | Design Patterns & SOLID Design Principles | Udemy |
+| 🌲 | Java Data Structures & Algorithms | Udemy |
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/avinash-p05/avinash-p05/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/avinash-p05/avinash-p05/output/github-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/avinash-p05/avinash-p05/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a371f7,50:61dafb,100:f89820&height=120&section=footer" width="100%"/>
+</p>
